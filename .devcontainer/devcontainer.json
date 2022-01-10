@@ -1,6 +1,6 @@
 {
     "name": "Deno",
     "dockerFile": "Dockerfile",
-    "forwardPorts": [80],
+    "forwardPorts": [8000],
     "overrideCommand": false,
 }
